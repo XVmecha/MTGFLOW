@@ -1,0 +1,2 @@
+input/WADI_attackdata.csv filter=lfs diff=lfs merge=lfs -text
+input/SWaT_Dataset_Attack_v0.xlsx filter=lfs diff=lfs merge=lfs -text
